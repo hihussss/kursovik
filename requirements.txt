@@ -1,0 +1,4 @@
+requests==2.31.0
+time==3.7
+json==3.4
+progress.bar==1.6
